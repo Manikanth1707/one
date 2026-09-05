@@ -2042,7 +2042,7 @@ Shop smarter.
 
 <p>
 
-Discover premium products, exclusive offers and everyday
+Discoversssssssssssssssssssssssssssssssssssssssss premium products, exclusive offers and everyday
 essentials — all inside a beautifully simple shopping experience.
 
 </p>
