@@ -1541,7 +1541,7 @@ footer{
 
         <h1>
             Everything you need.
-            <span>One beautiful place.</span>
+            <span>Is Hereeee....</span>
         </h1>
 
         <p>
