@@ -1546,7 +1546,7 @@ footer{
 
         <p>
             Discover carefully selected products, exclusive deals and everyday
-            essentials — designed to make shopping simple and enjoyable.
+            essentials.... designed to make shopping simple and enjoyable.
         </p>
 
         <div class="hero-actions">
