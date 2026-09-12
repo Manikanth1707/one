@@ -1,4 +1,4 @@
 k
 
 testing webhook while doing jenkins pipeline with tomcat and nexus server
-testing webhook for pipeline 
+testing webhook for pipelines
