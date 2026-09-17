@@ -1483,7 +1483,7 @@ footer{
 
         <a href="#" class="logo">
             <div class="logo-icon">
-                <i class="fas fa-bag-shopping"></i>
+                <em class="fas fa-bag-shopping"></em>
             </div>
             Nexus<span>Shop</span>
         </a>
@@ -1499,12 +1499,12 @@ footer{
         <div class="header-right">
 
             <div class="search">
-                <i class="fas fa-search"></i>
+                <em class="fas fa-search"></em>
                 <input id="searchInput" type="text" placeholder="Search products...">
             </div>
 
             <button class="icon-btn" id="wishlistBtn">
-                <i class="far fa-heart"></i>
+                <em class="far fa-heart"></em>
             </button>
 
             <button class="icon-btn" id="cartBtn">
